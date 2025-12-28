@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "HIP",
+  "base_artist": "MAMAMOO",
+  "createdAt": "2025-12-28T05:20:54.609146Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hallo Hip Hop",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/01_Hallo_Hip_Hop_Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hip Hop Quotables",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/02_Hip_Hop_Quotables_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Do It For Hip Hop",
+      "artist": "Ludacris feat. Nas & JAY Z",
+      "has_synced": true,
+      "path": "select/03_I_Do_It_For_Hip_Hop_Ludacris_feat._Nas_&_JAY_Z.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Do It for Hip Hop (feat. Nas & Jay-Z)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/04_I_Do_It_for_Hip_Hop_(feat._Nas_&_Jay-Z)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hip Hop Clowns & Party Rapper",
+      "artist": "Fünf Sterne Deluxe",
+      "has_synced": true,
+      "path": "select/05_Hip_Hop_Clowns_&_Party_Rapper_Fünf_Sterne_Deluxe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vocab - Refugees Hip Hop Remix",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/06_Vocab_-_Refugees_Hip_Hop_Remix_Fugees.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vocab [Refugees Hip Hop Remix]",
+      "artist": "The Fugees",
+      "has_synced": true,
+      "path": "select/07_Vocab_[Refugees_Hip_Hop_Remix]_The_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Killed Hip Hop",
+      "artist": "Lil B feat. Cormega",
+      "has_synced": false,
+      "path": "select/08_I_Killed_Hip_Hop_Lil_B_feat._Cormega.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Killed Hip Hop Ft Cormega",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/09_I_Killed_Hip_Hop_Ft_Cormega_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hip Hop",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/10_Hip_Hop_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hip Pop",
+      "artist": "Lunice",
+      "has_synced": false,
+      "path": "select/11_Hip_Pop_Lunice.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hip-Hop Saved My Life (feat. Nikki Jean)",
+      "artist": "Lupe Fiasco feat. Nikki Jean",
+      "has_synced": true,
+      "path": "select/12_Hip-Hop_Saved_My_Life_(feat._Nikki_Jean)_Lupe_Fiasco_feat._Nikki_Jean.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hip-Hop Saved My Life (featuring Nikki Jean)",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/13_Hip-Hop_Saved_My_Life_(featuring_Nikki_Jean)_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hip Hop",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/14_Hip_Hop_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hip Hop",
+      "artist": "N.A.S.A. feat. KRS-One, Fatlip & Slim Kid Tre",
+      "has_synced": false,
+      "path": "select/15_Hip_Hop_N.A.S.A._feat._KRS-One,_Fatlip_&_Slim_Kid_Tre.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hip Hop (Feat. KRS-One, Fatlip & Slim Kid Tre)",
+      "artist": "N.A.S.A.",
+      "has_synced": false,
+      "path": "select/16_Hip_Hop_(Feat._KRS-One,_Fatlip_&_Slim_Kid_Tre)_N.A.S.A..txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hip Bones",
+      "artist": "Oliver Francis",
+      "has_synced": true,
+      "path": "select/17_Hip_Bones_Oliver_Francis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Why Hip-Hop Sucks In '96",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/18_Why_Hip-Hop_Sucks_In_'96_DJ_Shadow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HIP",
+      "artist": "MAMAMOO",
+      "has_synced": false,
+      "path": "select/pl_01_HIP_MAMAMOO.txt"
+    }
+  ]
+}
